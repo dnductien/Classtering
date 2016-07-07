@@ -2,7 +2,7 @@
 ------------------------------------------------------------------------------------------
 	Classtering: Variational Bayesian Mixtures of Factor Analysers
 
-			(C) Emanuele Sansone, 2015			
+			(C) Emanuele Sansone, 2016			
 			    emanuele@esansone.com
 ------------------------------------------------------------------------------------------
 			
